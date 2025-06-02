@@ -1,1 +1,3 @@
 *.toml
+penguin_app/penguins.csv
+trees_app/trees.csv
